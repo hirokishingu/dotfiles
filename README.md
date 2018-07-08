@@ -2,6 +2,14 @@
 
 this is my vim environment now.
 
+put on .vimrc
+
+```
+$ cd ~
+```
+
+
+
 # Handling Error
 
 if Got
