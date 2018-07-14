@@ -8,6 +8,11 @@ put on .vimrc
 $ cd ~
 ```
 
+start vim
+```
+$ vi .
+```
+
 
 
 # Handling Error
